@@ -1,5 +1,5 @@
 # Universal-Bot
-The all-new, open source, Discord bot.
+The all-new open source Discord bot.
 
 # Purpose
 This was originally a project for a friend, but I have much larger plans for it. This all-purpose discord bot's features include: Moderation, and entertainment.

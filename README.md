@@ -79,5 +79,12 @@ Your help is appreciated.
 
 # What you can do with MY code
 
-Feel free to reuse the bot, under some conditions.
-You just have to give credit!
+You are allowed to use the bot for education.
+
+You cannot sell my code.
+
+You are allowed to reuse my code and use it for your own purpuses.
+
+You are not allowed to tell people you made my bot/code.
+
+Do not repost.

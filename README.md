@@ -68,7 +68,7 @@ Q: Commands do not work in general.
 A: Make sure the command is in all lowercase.
 
 Q: How to import the bot?
-A: The bot's code is not currently public. YET. However, the bot is available for use.
+A: All you need to do is download the code, python, and a good IDE and edit/add away!
 
 Dang, thats alot of words. ;)
 

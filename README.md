@@ -52,7 +52,7 @@ Commands, and features that I am currently working on.
 !pokesearch [Pokemon] -A command that tells you more about a specific Pokemon.
 
 -Improved ban command. It will dm the banned user, sends them an invite link if they get unbanned, and why they were banned.
--A gui for me to control my bot. It would let me change the status, turn off the bot, and let me change the command prefix.
+
 -Music integration for the voice channels.
 
 # Trouble Shooting
